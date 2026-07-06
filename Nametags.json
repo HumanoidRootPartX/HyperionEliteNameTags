@@ -1,7 +1,9 @@
 {
+  "_README": "Per-user fields — CustomName: display name on the tag | IconUrl: raw GitHub PNG link, shown as the circular badge on the left of the pill AND inside the zoom-out icon (empty = player's Roblox headshot) | TextAnim / BarAnim / Font / NameColor: from the Available* lists below. Put badge images in an icons/ folder in this repo and link them like https://raw.githubusercontent.com/HumanoidRootPartX/HyperionEliteNameTags/refs/heads/main/icons/crown.png",
   "Owners": {
     "xhy_perion": {
       "CustomName": "HYPERION",
+      "IconUrl": "",
       "BarDecalId": "",
       "BarVideoId": "",
       "RankTextureId": "",
@@ -12,6 +14,7 @@
     },
     "lbrxkenlxve2xx": {
       "CustomName": "Stoic Is The Best",
+      "IconUrl": "",
       "BarDecalId": "",
       "BarVideoId": "",
       "RankTextureId": "",
@@ -22,6 +25,7 @@
     },
     "xStephTheBestxx": {
       "CustomName": "Stoic Is The Best",
+      "IconUrl": "",
       "BarDecalId": "",
       "BarVideoId": "",
       "RankTextureId": "",
@@ -34,6 +38,7 @@
   "Admins": {
     "juggernut_01": {
       "CustomName": "StrikeX",
+      "IconUrl": "",
       "BarDecalId": "",
       "BarVideoId": "",
       "RankTextureId": "",
@@ -44,6 +49,7 @@
     },
     "wIwfreak": {
       "CustomName": "AK MOD",
+      "IconUrl": "",
       "BarDecalId": "",
       "BarVideoId": "",
       "RankTextureId": "",
@@ -54,6 +60,7 @@
     },
     "GM_KaZuKi": {
       "CustomName": "ADMIN",
+      "IconUrl": "",
       "BarDecalId": "",
       "BarVideoId": "",
       "RankTextureId": "",
@@ -64,6 +71,7 @@
     },
     "Kopegoingdown5": {
       "CustomName": "Racist Neko",
+      "IconUrl": "",
       "BarDecalId": "",
       "BarVideoId": "",
       "RankTextureId": "",
@@ -74,6 +82,7 @@
     },
     "UnholyAngxl": {
       "CustomName": "MeowMeow",
+      "IconUrl": "",
       "BarDecalId": "",
       "BarVideoId": "",
       "RankTextureId": "",
@@ -84,6 +93,7 @@
     },
     "xStephTheBest": {
       "CustomName": "StoicIsTheBest",
+      "IconUrl": "",
       "BarDecalId": "",
       "BarVideoId": "",
       "RankTextureId": "",
@@ -94,6 +104,7 @@
     },
     "lbrxkenlxve2": {
       "CustomName": "StoicIsTheBest",
+      "IconUrl": "",
       "BarDecalId": "",
       "BarVideoId": "",
       "RankTextureId": "",
@@ -104,20 +115,20 @@
     }
   },
   "CustomTags": {
-    "VipUser123": { "CustomName": "Testing01", "BarDecalId": "", "BarVideoId": "", "RankTextureId": "987654321", "TextAnim": "Scroll", "BarAnim": "CyberScan", "Font": "GothamBlack", "NameColor": "Emerald" },
-    "Ffsfh_55": { "CustomName": "VIP User", "BarDecalId": "", "BarVideoId": "", "RankTextureId": "", "TextAnim": "Bounce", "BarAnim": "Heartbeat", "Font": "SourceSansBold", "NameColor": "Sunset" },
-    "Neko02": { "CustomName": "Neko User", "BarDecalId": "", "BarVideoId": "", "RankTextureId": "", "TextAnim": "Bounce", "BarAnim": "Rainfall", "Font": "GothamBold", "NameColor": "Mint" },
-    "neonfoxtail123": { "CustomName": "Marilyn", "BarDecalId": "", "BarVideoId": "", "RankTextureId": "", "TextAnim": "Decrypt", "BarAnim": "Tetris", "Font": "Ubuntu", "NameColor": "Rose" },
-    "iiv_stqrr": { "CustomName": "Marilyn", "BarDecalId": "136373736596419", "BarVideoId": "", "RankTextureId": "", "TextAnim": "Decrypt", "BarAnim": "Firework", "Font": "Ubuntu", "NameColor": "Rose" },
-    "curlyquebobert": { "CustomName": "REDACTED", "BarDecalId": "", "BarVideoId": "", "RankTextureId": "", "TextAnim": "Decrypt", "BarAnim": "Tribal", "Font": "SciFi", "NameColor": "Purple" },
-    "PeoPeoPio29": { "CustomName": "Isakoo", "BarDecalId": "", "BarVideoId": "", "RankTextureId": "", "TextAnim": "Decrypt", "BarAnim": "Mandala", "Font": "Ubuntu", "NameColor": "Lava" },
-    "dcsknte": { "CustomName": "BATMAN", "BarDecalId": "", "BarVideoId": "", "RankTextureId": "", "TextAnim": "Decrypt", "BarAnim": "Inferno", "Font": "RobotoMono", "NameColor": "Lava" },
-    "DcukyLOL": { "CustomName": "Ducky", "BarDecalId": "", "BarVideoId": "", "RankTextureId": "", "TextAnim": "Decrypt", "BarAnim": "Spectrum", "Font": "GothamBlack", "NameColor": "Purple" },
-    "Sakoisba": { "CustomName": "Racist Karma", "BarDecalId": "", "BarVideoId": "", "RankTextureId": "", "TextAnim": "Rainbow", "BarAnim": "Spectrum", "Font": "Nunito", "NameColor": "White" },
-    "Kryptorion": { "CustomName": "Crypt", "BarDecalId": "", "BarVideoId": "", "RankTextureId": "", "TextAnim": "Decrypt", "BarAnim": "Spectrum", "Font": "GothamBlack", "NameColor": "Cyan" },
-    "QuantumPhantom": { "CustomName": "Void", "BarDecalId": "", "BarVideoId": "", "RankTextureId": "", "TextAnim": "Flicker", "BarAnim": "Hex", "Font": "Gotham", "NameColor": "Cyan" },
-    "RoyalKnight": { "CustomName": "Paladin", "BarDecalId": "", "BarVideoId": "", "RankTextureId": "", "TextAnim": "Shine", "BarAnim": "Crown", "Font": "Fantasy", "NameColor": "Gold" },
-    "Pumpkinlex_kin": { "CustomName": "SharkPuppy", "BarDecalId": "", "BarVideoId": "", "RankTextureId": "", "TextAnim": "Decrypt", "BarAnim": "Spectrum", "Font": "GothamBlack", "NameColor": "Cyan" }
+    "VipUser123": { "CustomName": "Testing01", "IconUrl": "", "BarDecalId": "", "BarVideoId": "", "RankTextureId": "987654321", "TextAnim": "Scroll", "BarAnim": "CyberScan", "Font": "GothamBlack", "NameColor": "Emerald" },
+    "Ffsfh_55": { "CustomName": "VIP User", "IconUrl": "", "BarDecalId": "", "BarVideoId": "", "RankTextureId": "", "TextAnim": "Bounce", "BarAnim": "Heartbeat", "Font": "SourceSansBold", "NameColor": "Sunset" },
+    "Neko02": { "CustomName": "Neko User", "IconUrl": "", "BarDecalId": "", "BarVideoId": "", "RankTextureId": "", "TextAnim": "Bounce", "BarAnim": "Rainfall", "Font": "GothamBold", "NameColor": "Mint" },
+    "neonfoxtail123": { "CustomName": "Marilyn", "IconUrl": "", "BarDecalId": "", "BarVideoId": "", "RankTextureId": "", "TextAnim": "Decrypt", "BarAnim": "Tetris", "Font": "Ubuntu", "NameColor": "Rose" },
+    "iiv_stqrr": { "CustomName": "Marilyn", "IconUrl": "", "BarDecalId": "136373736596419", "BarVideoId": "", "RankTextureId": "", "TextAnim": "Decrypt", "BarAnim": "Firework", "Font": "Ubuntu", "NameColor": "Rose" },
+    "curlyquebobert": { "CustomName": "REDACTED", "IconUrl": "", "BarDecalId": "", "BarVideoId": "", "RankTextureId": "", "TextAnim": "Decrypt", "BarAnim": "Tribal", "Font": "SciFi", "NameColor": "Purple" },
+    "PeoPeoPio29": { "CustomName": "Isakoo", "IconUrl": "", "BarDecalId": "", "BarVideoId": "", "RankTextureId": "", "TextAnim": "Decrypt", "BarAnim": "Mandala", "Font": "Ubuntu", "NameColor": "Lava" },
+    "dcsknte": { "CustomName": "BATMAN", "IconUrl": "", "BarDecalId": "", "BarVideoId": "", "RankTextureId": "", "TextAnim": "Decrypt", "BarAnim": "Inferno", "Font": "RobotoMono", "NameColor": "Lava" },
+    "DcukyLOL": { "CustomName": "Ducky", "IconUrl": "", "BarDecalId": "", "BarVideoId": "", "RankTextureId": "", "TextAnim": "Decrypt", "BarAnim": "Spectrum", "Font": "GothamBlack", "NameColor": "Purple" },
+    "Sakoisba": { "CustomName": "Racist Karma", "IconUrl": "", "BarDecalId": "", "BarVideoId": "", "RankTextureId": "", "TextAnim": "Rainbow", "BarAnim": "Spectrum", "Font": "Nunito", "NameColor": "White" },
+    "Kryptorion": { "CustomName": "Crypt", "IconUrl": "", "BarDecalId": "", "BarVideoId": "", "RankTextureId": "", "TextAnim": "Decrypt", "BarAnim": "Spectrum", "Font": "GothamBlack", "NameColor": "Cyan" },
+    "QuantumPhantom": { "CustomName": "Void", "IconUrl": "", "BarDecalId": "", "BarVideoId": "", "RankTextureId": "", "TextAnim": "Flicker", "BarAnim": "Hex", "Font": "Gotham", "NameColor": "Cyan" },
+    "RoyalKnight": { "CustomName": "Paladin", "IconUrl": "", "BarDecalId": "", "BarVideoId": "", "RankTextureId": "", "TextAnim": "Shine", "BarAnim": "Crown", "Font": "Fantasy", "NameColor": "Gold" },
+    "Pumpkinlex_kin": { "CustomName": "SharkPuppy", "IconUrl": "", "BarDecalId": "", "BarVideoId": "", "RankTextureId": "", "TextAnim": "Decrypt", "BarAnim": "Spectrum", "Font": "GothamBlack", "NameColor": "Cyan" }
   },
   "AvailableTextAnimations": ["Scroll","Glitch","Bounce","Wave","Typewriter","Fade","Rainbow","Shake","Pulse","Flicker","Decrypt","Matrix","Static"],
   "AvailableBarAnimations": ["CyberScan","Pulse","Breathe","Rainfall","Hologram","Waveform","Firefly","Circuit","Plasma","Heartbeat","Aurora","Binary","Spectrum","DNA","Lightning","Vortex","Thorn","Crosshair","Sakura","Lava","Electric","Starfield","Tribal","Shockwave","Glitch","Hyperdrive","Ocean","Inferno","Galaxy","Hex","Ripple","Snake","Prism","Constellation","Mandala","Tetris","Pendulum","Orbit","Diamonds","Clockwork","Sonar","Mosaic","Tornado","Crown","Blade","Nebula","Rune","Warp","Matrix","Pixel","Signal","Jellyfish","Firework","Cipher","Comet","None"],
