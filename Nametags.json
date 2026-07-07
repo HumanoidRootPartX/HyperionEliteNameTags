@@ -3,14 +3,14 @@
   "Owners": {
     "xhy_perion": {
       "CustomName": "HYPERION",
-      "IconUrl": "",
+      "IconUrl": "https://raw.githubusercontent.com/HumanoidRootPartX/HyperionEliteNameTags/refs/heads/main/HyperionEliteIcon.png",
       "BarDecalId": "",
       "BarVideoId": "",
       "RankTextureId": "",
       "TextAnim": "Decrypt",
-      "BarAnim": "Binary",
-      "Font": "SciFi",
-      "NameColor": "Cyan"
+      "BarAnim": "Crosshair",
+      "Font": "Decrypt",
+      "NameColor": "Sunset"
     },
     "timetohopoff1": {
       "CustomName": "HyperionX",
@@ -58,16 +58,16 @@
       "Font": "Bangers",
       "NameColor": "Neon"
     },
-    "GM_KaZuKi": {
-      "CustomName": "ADMIN",
-      "IconUrl": "",
+    "xFadedO_Ox": {
+      "CustomName": "Faded",
+      "IconUrl": "https://raw.githubusercontent.com/XHyperionSL/Icons/refs/heads/main/Bae.webp",
       "BarDecalId": "",
       "BarVideoId": "",
       "RankTextureId": "",
-      "TextAnim": "Typewriter",
-      "BarAnim": "Hologram",
-      "Font": "SciFi",
-      "NameColor": "Purple"
+      "TextAnim": "Decrypt",
+      "BarAnim": "CyberScan",
+      "Font": "Arcade",
+      "NameColor": "Sunset"
     },
     "Kopegoingdown5": {
       "CustomName": "Racist Neko",
