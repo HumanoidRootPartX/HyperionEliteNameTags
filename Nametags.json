@@ -14,7 +14,7 @@
     },
     "timetohopoff1": {
       "CustomName": "HyperionX",
-      "IconUrl": "",
+      "IconUrl": "https://raw.githubusercontent.com/HumanoidRootPartX/HyperionEliteNameTags/refs/heads/main/HyperionEliteIcon.png",
       "BarDecalId": "",
       "BarVideoId": "",
       "RankTextureId": "",
