@@ -69,15 +69,15 @@
       "Font": "Arcade",
       "NameColor": "Sunset"
     },
-    "Kopegoingdown5": {
-      "CustomName": "Racist Neko",
-      "IconUrl": "",
+    "uh_marek": {
+      "CustomName": "Marek The Goat",
+      "IconUrl": "https://raw.githubusercontent.com/XHyperionSL/Icons/main/mark.webp",
       "BarDecalId": "",
       "BarVideoId": "",
       "RankTextureId": "",
-      "TextAnim": "Glitch",
-      "BarAnim": "Plasma",
-      "Font": "FredokaOne",
+      "TextAnim": "Decrypt",
+      "BarAnim": "Prism",
+      "Font": "Ubuntu",
       "NameColor": "Rose"
     },
     "UnholyAngxl": {
